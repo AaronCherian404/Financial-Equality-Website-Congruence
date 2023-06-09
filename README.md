@@ -1,0 +1,2 @@
+Congruence is an innovative digital platform designed to address financial disparities and promote inclusive access to financial services. It aims to bridge the gap between marginalized communities and affordable banking services, Encourage healthy financial management, facilitate financial literacy, and support economic empowerment.
+Through ML, we propose enhanced risk assessment strategies, Chatbots, Financial blogs and Forums and extensive expense tracking

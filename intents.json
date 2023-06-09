@@ -1,0 +1,140 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey! How can I assist you with your finances today?",
+        "Hello! How can I help you manage your finances?",
+        "Hi there! How can I assist you with financial information?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "Take care and have a wonderful day!",
+        "Goodbye! Feel free to return if you have more questions."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "Appreciate it", "Thank's a lot!"],
+      "responses": ["You're welcome!", "Glad I could assist you!", "My pleasure!"]
+    },
+    {
+      "tag": "savings",
+      "patterns": [
+        "How can I save money?",
+        "Tips for saving money",
+        "How to build savings?"
+      ],
+      "responses": [
+        "To save money, consider creating a budget and tracking your expenses.",
+        "Automating your savings, cutting unnecessary expenses, and setting financial goals can help you save money.",
+        "Saving money is important. You can start by analyzing your spending habits and finding areas where you can reduce expenses."
+      ]
+    },
+    {
+      "tag": "investing",
+      "patterns": [
+        "How can I start investing?",
+        "Tips for beginner investors",
+        "What should I know about investing?"
+      ],
+      "responses": [
+        "When starting to invest, it's essential to educate yourself about different investment options and consider your risk tolerance.",
+        "Diversifying your investments, regularly reviewing your portfolio, and seeking professional advice can be helpful for beginner investors.",
+        "Investing can be a great way to grow your wealth. Make sure to understand the risks and potential returns of different investment vehicles."
+      ]
+    },
+    {
+      "tag": "credit",
+      "patterns": [
+        "How can I improve my credit score?",
+        "Tips for building good credit",
+        "What impacts my credit rating?"
+      ],
+      "responses": [
+        "To improve your credit score, make sure to pay your bills on time, reduce your debt, and monitor your credit report for errors.",
+        "Building good credit takes time. Focus on making timely payments, keeping credit utilization low, and avoiding excessive credit applications.",
+        "Your credit score is influenced by factors such as payment history, credit utilization, length of credit history, and types of credit used."
+      ]
+    },
+    {
+      "tag": "budgeting",
+      "patterns": [
+        "How can I create a budget?",
+        "Tips for effective budgeting",
+        "What's the best way to manage finances?"
+      ],
+      "responses": [
+        "Creating a budget involves tracking your income and expenses, setting financial goals, and allocating funds for different categories.",
+        "Budgeting can help you prioritize spending, save money, and stay on top of your finances. Consider using budgeting apps or spreadsheets.",
+        "To manage your finances effectively, it's crucial to have a budget, track your expenses, and make informed decisions about your spending."
+      ]
+    },
+    {
+      "tag": "PM-SYM",
+      "patterns": [
+        "What is PM-SYM?",
+        "Tell me about PM-SYM",
+        "Explain PM-SYM"
+      ],
+      "responses": [
+        "PM-SYM is a voluntary and contributory pension scheme for unorganized workers. It provides a minimum monthly assured pension of Rs. 3000/- after attaining the age of 60 years. The scheme requires a monthly contribution ranging from Rs. 55 to Rs. 200, with 50% contributed by the beneficiary and an equal matching contribution from the Central Government. Eligibility criteria include being an Indian citizen, aged between 18-40 years, having a monthly income below Rs. 15000, and not being a member of EPFO/ESIC/NPS."
+      ]
+    },
+    {
+      "tag": "NPS",
+      "patterns": [
+        "What is NPS?",
+        "Tell me about NPS",
+        "Explain NPS"
+      ],
+      "responses": [
+        "NPS is a voluntary and contributory pension scheme for shopkeepers, owners of small businesses, and self-employed individuals. It offers a minimum monthly assured pension of Rs. 3000/- after reaching the age of 60 years. The scheme involves a monthly contribution ranging from Rs. 55 to Rs. 200, with 50% contributed by the beneficiary and an equal matching contribution from the Central Government. Eligibility criteria include being an Indian citizen, aged between 18-40 years, not covered by EPFO/ESIC/PM-SYM, and having an annual turnover not exceeding 1.5 Crore."
+      ]
+    },
+    {
+      "tag": "PMJJBY",
+      "patterns": [
+        "What is PMJJBY?",
+        "Tell me about PMJJBY",
+        "Explain PMJJBY"
+      ],
+      "responses": [
+        "PMJJBY is a life insurance scheme for Indian citizens aged between 18 to 50 years. It provides a life cover of Rs. 2 lakh in case of death due to any cause. The premium for the scheme is Rs. 436/- per year, and it requires auto-debit from a bank account with consent. Eligible individuals must have a Jan Dhan or saving bank account linked with Aadhaar."
+      ]
+    },
+    {
+      "tag": "PMSBY",
+      "patterns": [
+        "What is PMSBY?",
+        "Tell me about PMSBY",
+        "Explain PMSBY"
+      ],
+      "responses": [
+        "PMSBY is an accident insurance scheme for Indian citizens aged between 18 to 70 years. It provides a risk coverage of Rs. 2 lakh for accidental death and full disability, and Rs. 1 lakh for partial disability. The premium for the scheme is Rs. 20/- per year, and it requires auto-debit from a bank account with consent. Eligible individuals must have a Jan Dhan or saving bank account linked with Aadhaar."
+      ]
+    },
+    {
+      "tag": "Atal Pension Yojana",
+      "patterns": [
+        "What is Atal Pension Yojana?",
+        "Tell me about Atal Pension Yojana",
+        "Explain Atal Pension Yojana"
+      ],
+      "responses": [
+        "Atal Pension Yojana is a pension scheme for Indian citizens aged between 18-40 years. It provides contributors with a pension of 1000-5000 rupees or an accumulated sum after their death. The contribution amount varies based on the age of entry, pension amount chosen, and the period of contribution. The scheme is administered by the Pension Fund Regulatory and Development Authority (PFRDA)."
+      ]
+    }
+
+  ]
+}
