@@ -24,6 +24,6 @@ This can be done through a 7 pronged approach.
       Improvements in the blog Integration software are needed.
  ## 4. Implementation of additional filters in the Scheme-Filtration feature:
       Research shows that GDP and literacy rates influence the impact of nationally available government schemes.
-      Implementation of this would produce better results.
+      Implementation of this would produce much better results.
       
  
